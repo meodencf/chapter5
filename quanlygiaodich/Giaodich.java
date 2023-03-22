@@ -2,7 +2,7 @@
 package quanlygiaodich;
 
 public class Giaodich {
-    private int Magiaodich;
+    private String Magiaodich;
     private int Ngaygiaodich;
     private int Dongia;
     private int Soluong;
@@ -14,11 +14,11 @@ public class Giaodich {
         this.Soluong = Soluong;
     }
 
-    public int getMagiaodich() {
+    public String getMagiaodich() {
         return Magiaodich;
     }
 
-    public void setMagiaodich(int Magiaodich) {
+    public void setMagiaodich(String Magiaodich) {
         this.Magiaodich = Magiaodich;
     }
 

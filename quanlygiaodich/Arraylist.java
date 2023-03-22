@@ -9,11 +9,6 @@ package quanlygiaodich;
  *
  * @author MINHNHAT
  */
-public class main {
-    public static void main(String[] args){
-        Quanlygiaodich ba = new Quanlygiaodich();
-        ba.nhap(3);
-        ba.xuat();
-        ba.tongsoluongtungloai();
-    }
+class Arraylist<T> {
+    
 }
